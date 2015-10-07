@@ -50,8 +50,14 @@ def output_to_files(groups,text_filename,csv_filename):
 			out.write(", ".join(group.get_player_names()))
 			out.write("\n\nPositions:\n")
 			positions = group.get_player_positions()
-			for k,v in positions.items():
-				out.write(k+"\t"+str(v)+"\n")
+			out.write('PG\t'+str(positions['PG']))
+			out.write('PG-SG\t'+str(positions['PG-SG']+positions['SG-PG']))
+			out.write('SG\t'+str(positions['SG']))
+			out.write('SG-SF\t'+str(positions['SG-SF']+positions['SF-SG']))
+			out.write('SF\t'+str(positions['SF']))
+			out.write('SF-PF\t'+str(positions['SF-PF']+positions['PF-SF']))
+			out.write('PF\t'+str(positions['PF']))
+			out.write('C\t'+str(positions['C']))
 			out.write("\n\n")
 	with open(csv_filename, 'w') as out:
 		writer = csv.writer(out)
