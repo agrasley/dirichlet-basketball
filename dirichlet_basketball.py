@@ -1,6 +1,7 @@
 import numpy
 import pandas
 from sklearn import mixture
+import csv
 
 FILENAME = "leagues_NBA_2015_per_minute_per_minute.csv"
 STATS = pandas.read_csv(open(FILENAME,'rb'))
@@ -41,6 +42,23 @@ class PlayerGroup():
 		averages['2P%'] = averages['2P'] / averages['2PA']
 		averages['FT%'] = averages['FT'] / averages['FTA']
 		return averages
+
+def output_to_files(groups,text_filename,csv_filename):
+	with open(text_filename,'w') as out:
+		for index,group in groups.items():
+			out.write("Group "+str(index)+":\n\nPlayers: ")
+			out.write(", ".join(group.get_player_names()))
+			out.write("\n\nPositions:\n")
+			positions = group.get_player_positions()
+			for k,v in positions.items():
+				out.write(k+"\t"+str(v)+"\n")
+			out.write("\n\n")
+	with open(csv_filename, 'w') as out:
+		writer = csv.writer(out)
+		writer.writerow(['Group','Age','G','GS','MP','FG','FGA','FG%','3P','3PA','3P%','2P','2PA','2P%','FT','FTA','FT%','ORB','DRB','TRB','AST','STL','BLK','TOV','PF','PTS'])
+		for index,group in groups.items():
+			averages = group.get_player_averages()
+			writer.writerow([index,averages['Age'],averages['G'],averages['GS'],averages['MP'],averages['FG'],averages['FGA'],averages['FG%'],averages['3P'],averages['3PA'],averages['3P%'],averages['2P'],averages['2PA'],averages['2P%'],averages['FT'],averages['FT%'],averages['ORB'],averages['DRB'],averages['TRB'],averages['AST'],averages['STL'],averages['BLK'],averages['TOV'],averages['PF'],averages['PTS']])
 
 def create_player_groups(np_array):
 	groups = {}
