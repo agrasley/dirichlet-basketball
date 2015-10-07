@@ -95,7 +95,7 @@ def simple_stats_with_minutes():
 
 def advanced_stats_only():
 	x = numpy.loadtxt(open(FILENAME, 'rb'), delimiter=",", usecols=(7,11,12,14,15,17,18,20,21,23,24,25,26,27),skiprows=1)
-	dpgmm = mixture.DPGMM(n_iter=100,n_components=25)
+	dpgmm = mixture.DPGMM(n_iter=100,n_components=25,alpha=1)
 	dpgmm.fit(x)
 	return create_player_groups(dpgmm.predict(x))
 
