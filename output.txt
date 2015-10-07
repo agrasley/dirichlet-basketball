@@ -1,180 +1,162 @@
-Group 0:
+Group 16:
 
-Players: Arron Afflalo, Al-Farouq Aminu, Alan Anderson, Ryan Anderson, Pero Antic, Trevor Ariza, Harrison Barnes, Matt Barnes, Kent Bazemore, Marco Belinelli, Patrick Beverley, Bojan Bogdanovic, Matt Bonner, Chase Budinger, Caron Butler, Rasual Butler, Kentavious Caldwell-Pope, Isaiah Canaan, DeMarre Carroll, Vince Carter, Wilson Chandler, Earl Clark, Ian Clark, Chris Copeland, Robert Covington, Jae Crowder, Luigi Datome, Austin Daye, Zoran Dragic, Jared Dudley, Mike Dunleavy, Cleanthony Early, Wayne Ellington, James Ennis, Evan Fournier, Randy Foye, Eric Gordon, Danny Granger, Jerami Grant, Danny Green, Draymond Green, Willie Green, P.J. Hairston, Tim Hardaway, Devin Harris, Gary Harris, Spencer Hawes, Solomon Hill, Kirk Hinrich, Justin Holiday, Rodney Hood, Richard Jefferson, John Jenkins, Jonas Jerebko, Wesley Johnson, Ryan Kelly, Sean Kilpatrick, Kyle Korver, Jeremy Lamb, Courtney Lee, Meyers Leonard, Wesley Matthews, C.J. McCollum, Ben McLemore, C.J. Miles, Quincy Miller, Patrick Mills, Marcus Morris, Anthony Morrow, Jannero Pargo, Chandler Parsons, Patrick Patterson, Paul Pierce, Quincy Pondexter, J.J. Redick, Jason Richardson, Andre Roberson, Terrence Ross, Mike Scott, Iman Shumpert, Kyle Singler, Marcus Smart, J.R. Smith, Tony Snell, Nik Stauskas, Mirza Teletovic, Garrett Temple, Hollis Thompson, P.J. Tucker, Charlie Villanueva, C.J. Wilcox, Elliot Williams, Marvin Williams, Reggie Williams, Shawne Williams, Dorell Wright, James Young
+Players: Tyrus Thomas
 
 Positions:
-SF-SG	1
-C	1
-PG	6
+C	0
+SF	0
+PG-SG	0
 SG-SF	0
 SG-PG	0
-SG	42
-SF	32
-PG-SG	0
-PF	15
-PF-SF	0
 SF-PF	0
+PG	0
+PF	1
+SF-SG	0
+SG	0
+PF-SF	0
 
 
 Group 17:
 
-Players: Jordan Adams, Kyle Anderson, Darrell Arthur, Nicolas Batum, Vander Blue, Lorenzo Brown, Markel Brown, Shannon Brown, Nick Calathes, Jose Calderon, Will Cherry, Norris Cole, Nick Collison, Dante Cunningham, Boris Diaw, Toney Douglas, Chris Douglas-Roberts, Larry Drew, Tyler Ennis, Landry Fields, Tim Frazier, Langston Galloway, Erick Green, Jorge Gutierrez, Maurice Harkless, Lester Hudson, Robbie Hummel, Andre Iguodala, Nick Johnson, Tyler Johnson, Perry Jones, Sergey Karasev, Shane Larkin, Shelvin Mack, Devyn Marble, Shawn Marion, Kendall Marshall, Luc Mbah a Moute, Ray McCallum, K.J. McDaniels, Doug McDermott, Josh McRoberts, Elijah Millsap, E'Twaun Moore, Darius Morris, Shabazz Napier, Jameer Nelson, Otto Porter, Phil Pressey, Ronnie Price, Tayshaun Prince, Luke Ridnour, Austin Rivers, Brian Roberts, Glenn Robinson III, JaKarr Sampson, Thabo Sefolosha, Donald Sloan, Jeffery Taylor, Greivis Vasquez, Gerald Wallace, Travis Wear, Nate Wolters
+Players: Steven Adams, Jeff Adrien, Alexis Ajinca, Cole Aldrich, LaMarcus Aldridge, Lou Amundson, Giannis Antetokounmpo, Omer Asik, Jeff Ayres, Andrea Bargnani, Brandon Bass, Aron Baynes, Bismack Biyombo, Tarik Black, Andrew Bogut, Carlos Boozer, Clint Capela, Tyson Chandler, DeMarcus Cousins, Anthony Davis, Ed Davis, Gorgui Dieng, Andre Drummond, Tim Duncan, Reggie Evans, Festus Ezeli, Kenneth Faried, Derrick Favors, Kevin Garnett, Marc Gasol, Pau Gasol, Taj Gibson, Rudy Gobert, Marcin Gortat, Blake Griffin, Brendan Haywood, John Henson, Roy Hibbert, J.J. Hickson, Nene Hilario, Jordan Hill, Al Horford, Dwight Howard, Kris Humphries, Bernard James, Al Jefferson, Cory Jefferson, Terrence Jones, DeAndre Jordan, Jerome Jordan, Chris Kaman, Enes Kanter, Michael Kidd-Gilchrist, Kosta Koufos, Carl Landry, David Lee, Brook Lopez, Robin Lopez, James Michael McAdoo, Mitch McGary, JaVale McGee, Greg Monroe, Timofey Mozgov, Shabazz Muhammad, Joakim Noah, Nerlens Noel, Jusuf Nurkic, Arinze Onuaku, Zaza Pachulia, Jabari Parker, Nikola Pekovic, Mason Plumlee, Dwight Powell, Zach Randolph, Thomas Robinson, Larry Sanders, Luis Scola, Kevin Seraphin, Henry Sims, Jason Smith, Marreese Speights, Tiago Splitter, Jarnell Stokes, Amar'e Stoudemire, Tristan Thompson, Jonas Valanciunas, Anderson Varejao, Nikola Vucevic, David West, Hassan Whiteside, Shayne Whittington, Jeff Withey, Brandan Wright, Cody Zeller, Tyler Zeller
 
 Positions:
-SF-SG	0
-C	0
-PG	25
-SG-SF	1
-SG-PG	0
-SG	15
-SF	15
-PG-SG	1
-PF	6
-PF-SF	0
-SF-PF	0
-
-
-Group 18:
-
-Players: Carmelo Anthony, D.J. Augustin, Leandro Barbosa, J.J. Barea, Will Barton, Jerryd Bayless, Bradley Beal, Eric Bledsoe, Chris Bosh, Avery Bradley, Corey Brewer, Aaron Brooks, Jabari Brown, Kobe Bryant, Trey Burke, Alec Burks, Jimmy Butler, Dwight Buycks, Will Bynum, Michael Carter-Williams, Omri Casspi, Mario Chalmers, Jordan Clarkson, Darren Collison, Mike Conley, Bryce Cotton, Jamal Crawford, Jared Cunningham, Stephen Curry, Luol Deng, DeMar DeRozan, Spencer Dinwiddie, Goran Dragic, Kevin Durant, Monta Ellis, Tyreke Evans, Raymond Felton, Jimmer Fredette, Danilo Gallinari, Rudy Gay, Alonzo Gee, Paul George, Manu Ginobili, Archie Goodwin, Ben Gordon, Gerald Green, Jeff Green, James Harden, Tobias Harris, Gordon Hayward, Gerald Henderson, George Hill, Jrue Holiday, Ersan Ilyasova, Kyrie Irving, Jarrett Jack, Reggie Jackson, LeBron James, Brandon Jennings, Joe Johnson, Cory Joseph, Brandon Knight, Zach LaVine, Ty Lawson, Ricky Ledo, Kawhi Leonard, Damian Lillard, Jeremy Lin, Shaun Livingston, Kevin Love, Kyle Lowry, John Lucas III, Kevin Martin, O.J. Mayo, Jodie Meeks, Khris Middleton, Andre Miller, Paul Millsap, Nikola Mirotic, Markieff Morris, Gary Neal, Andrew Nicholson, Dirk Nowitzki, Victor Oladipo, Kelly Olynyk, Tony Parker, Chris Paul, Elfrid Payton, A.J. Price, Nate Robinson, Rajon Rondo, Derrick Rose, Ricky Rubio, Dennis Schroder, Ramon Sessions, Alexey Shved, Ish Smith, Josh Smith, Lance Stephenson, David Stockton, Rodney Stuckey, Jeff Teague, Sebastian Telfair, Isaiah Thomas, Klay Thompson, Marcus Thornton, Evan Turner, Beno Udrih, Dwyane Wade, Dion Waiters, Kemba Walker, John Wall, C.J. Watson, Martell Webster, Andrew Wiggins, Deron Williams, Derrick Williams, Lou Williams, Mo Williams, Tony Wroten, Nick Young, Thaddeus Young
-
-Positions:
-SF-SG	0
-C	2
-PG	55
-SG-SF	0
-SG-PG	1
-SG	36
-SF	17
-PG-SG	1
-PF	10
-PF-SF	0
-SF-PF	0
-
-
-Group 3:
-
-Players: Cameron Bairstow, Bruno Caboclo, Patrick Christopher, Victor Claver, Jack Cooley, Xavier Henry, Grant Jerrett, Dahntay Jones, Andrei Kirilenko, Alex Kirk, Kalin Lucas, Jerel McNeal, Darius Miller, Toure' Murry, Lucas Nogueira, Miroslav Raduljica, Julius Randle, Glen Rice, Russ Smith, Greg Stiemsma
-
-Positions:
-SF-SG	0
-C	4
-PG	3
-SG-SF	0
-SG-PG	1
-SG	2
-SF	6
+C	55
+SF	2
 PG-SG	0
-PF	4
-PF-SF	0
+SG-SF	0
+SG-PG	0
 SF-PF	0
+PG	0
+PF	36
+SF-SG	0
+SG	2
+PF-SF	0
 
 
 Group 20:
 
-Players: Jerrelle Benimon, Sim Bhullar, Seth Curry, Jamaal Franklin, Eric Moreland, David Wear
+Players: Carmelo Anthony, D.J. Augustin, Leandro Barbosa, J.J. Barea, Will Barton, Jerryd Bayless, Bradley Beal, Eric Bledsoe, Vander Blue, Chris Bosh, Corey Brewer, Aaron Brooks, Jabari Brown, Kobe Bryant, Trey Burke, Alec Burks, Jimmy Butler, Dwight Buycks, Will Bynum, Nick Calathes, Michael Carter-Williams, Omri Casspi, Mario Chalmers, Jordan Clarkson, Darren Collison, Mike Conley, Bryce Cotton, Jamal Crawford, Jared Cunningham, Stephen Curry, Luol Deng, DeMar DeRozan, Boris Diaw, Spencer Dinwiddie, Goran Dragic, Kevin Durant, Monta Ellis, Tyler Ennis, Tyreke Evans, Raymond Felton, Tim Frazier, Jimmer Fredette, Rudy Gay, Paul George, Manu Ginobili, Archie Goodwin, Ben Gordon, Jeff Green, James Harden, Tobias Harris, Gordon Hayward, Gerald Henderson, George Hill, Jrue Holiday, Ersan Ilyasova, Kyrie Irving, Jarrett Jack, Reggie Jackson, LeBron James, Brandon Jennings, Joe Johnson, Cory Joseph, Brandon Knight, Zach LaVine, Ty Lawson, Ricky Ledo, Kawhi Leonard, Damian Lillard, Jeremy Lin, Shaun Livingston, Kevin Love, Kyle Lowry, John Lucas III, Kevin Martin, O.J. Mayo, Ray McCallum, Jodie Meeks, Khris Middleton, Andre Miller, Paul Millsap, Nikola Mirotic, Darius Morris, Markieff Morris, Gary Neal, Dirk Nowitzki, Victor Oladipo, Kelly Olynyk, Tony Parker, Chris Paul, Elfrid Payton, Phil Pressey, Rajon Rondo, Derrick Rose, Ricky Rubio, Dennis Schroder, Ramon Sessions, Alexey Shved, Donald Sloan, Ish Smith, Josh Smith, Lance Stephenson, David Stockton, Rodney Stuckey, Jared Sullinger, Jeff Teague, Isaiah Thomas, Klay Thompson, Evan Turner, Beno Udrih, Dwyane Wade, Dion Waiters, Kemba Walker, John Wall, C.J. Watson, Martell Webster, Russell Westbrook, Andrew Wiggins, Deron Williams, Derrick Williams, Lou Williams, Mo Williams, Tony Wroten, Nick Young, Thaddeus Young
 
 Positions:
-SF-SG	0
-C	1
-PG	1
+C	2
+SF	15
+PG-SG	1
 SG-SF	0
-SG-PG	0
-SG	1
-SF	0
-PG-SG	0
-PF	3
-PF-SF	0
+SG-PG	1
 SF-PF	0
+PG	59
+PF	11
+SF-SG	0
+SG	35
+PF-SF	0
 
 
-Group 22:
+Group 5:
 
-Players: DeMarcus Cousins, Tyrus Thomas, Russell Westbrook
+Players: Jordan Adams, Arron Afflalo, Alan Anderson, Ryan Anderson, Pero Antic, Trevor Ariza, Harrison Barnes, Matt Barnes, Nicolas Batum, Kent Bazemore, Marco Belinelli, Patrick Beverley, Steve Blake, Bojan Bogdanovic, Matt Bonner, Avery Bradley, Lorenzo Brown, Markel Brown, Shannon Brown, Chase Budinger, Caron Butler, Rasual Butler, Jose Calderon, Kentavious Caldwell-Pope, Isaiah Canaan, DeMarre Carroll, Vince Carter, Wilson Chandler, Will Cherry, Earl Clark, Ian Clark, Norris Cole, Chris Copeland, Robert Covington, Jae Crowder, Luigi Datome, Austin Daye, Matthew Dellavedova, Toney Douglas, Chris Douglas-Roberts, Zoran Dragic, Larry Drew, Jared Dudley, Mike Dunleavy, Cleanthony Early, Wayne Ellington, James Ennis, Jordan Farmar, Evan Fournier, Randy Foye, Danilo Gallinari, Langston Galloway, Eric Gordon, Danny Granger, Jerami Grant, Danny Green, Draymond Green, Erick Green, Gerald Green, Willie Green, P.J. Hairston, Tim Hardaway, Maurice Harkless, Devin Harris, Gary Harris, Spencer Hawes, Solomon Hill, Kirk Hinrich, Justin Holiday, Rodney Hood, Lester Hudson, Andre Iguodala, Joe Ingles, Richard Jefferson, John Jenkins, Jonas Jerebko, Chris Johnson, Tyler Johnson, Wesley Johnson, Perry Jones, Sergey Karasev, Ryan Kelly, Sean Kilpatrick, Kyle Korver, Jeremy Lamb, Shane Larkin, Courtney Lee, Meyers Leonard, Shelvin Mack, Devyn Marble, Kendall Marshall, Wesley Matthews, Luc Mbah a Moute, C.J. McCollum, K.J. McDaniels, Doug McDermott, Ben McLemore, Josh McRoberts, C.J. Miles, Quincy Miller, Patrick Mills, Elijah Millsap, E'Twaun Moore, Marcus Morris, Anthony Morrow, Shabazz Napier, Jameer Nelson, Kostas Papanikolaou, Jannero Pargo, Chandler Parsons, Patrick Patterson, Paul Pierce, Quincy Pondexter, Otto Porter, A.J. Price, Ronnie Price, J.J. Redick, Jason Richardson, Luke Ridnour, Austin Rivers, Andre Roberson, Brian Roberts, Nate Robinson, Glenn Robinson III, Terrence Ross, JaKarr Sampson, Mike Scott, Thabo Sefolosha, Iman Shumpert, Kyle Singler, Marcus Smart, J.R. Smith, Tony Snell, Nik Stauskas, Jeffery Taylor, Mirza Teletovic, Sebastian Telfair, Garrett Temple, Hollis Thompson, Marcus Thornton, P.J. Tucker, Greivis Vasquez, Charlie Villanueva, C.J. Wilcox, Elliot Williams, Marvin Williams, Reggie Williams, Shawne Williams, Dorell Wright, James Young
 
 Positions:
-SF-SG	0
 C	1
-PG	1
-SG-SF	0
+SF	43
+PG-SG	1
+SG-SF	1
 SG-PG	0
-SG	0
-SF	0
-PG-SG	0
-PF	1
-PF-SF	0
 SF-PF	0
+PG	28
+PF	17
+SF-SG	1
+SG	58
+PF-SF	0
 
 
 Group 6:
 
-Players: Malcolm Lee, Gal Mekel
+Players: Jerrelle Benimon, Sim Bhullar, Jamaal Franklin, Eric Moreland, David Wear
 
 Positions:
-SF-SG	0
-C	0
-PG	1
-SG-SF	0
-SG-PG	0
-SG	1
+C	1
 SF	0
 PG-SG	0
-PF	0
-PF-SF	0
+SG-SF	0
+SG-PG	0
 SF-PF	0
+PG	0
+PF	3
+SF-SG	0
+SG	1
+PF-SF	0
 
 
 Group 23:
 
-Players: Luke Babbitt, Steve Blake, Reggie Bullock, Allen Crabbe, Troy Daniels, Andre Dawkins, Matthew Dellavedova, Dante Exum, Jordan Farmar, Channing Frye, Francisco Garcia, Jordan Hamilton, Joe Harris, Joe Ingles, Chris Johnson, James Jones, Cartier Martin, Mike Miller, Steve Novak, Kostas Papanikolaou, Pablo Prigioni, Damjan Rudez, Brandon Rush, John Salmons, Jason Terry, Anthony Tolliver, Hedo Turkoglu, Henry Walker
+Players: Malcolm Lee, Gal Mekel, Ronny Turiaf
 
 Positions:
-SF-SG	0
-C	0
-PG	4
-SG-SF	0
-SG-PG	0
-SG	7
-SF	14
-PG-SG	0
-PF	2
-PF-SF	0
-SF-PF	1
-
-
-Group 24:
-
-Players: Ronny Turiaf
-
-Positions:
-SF-SG	0
 C	1
-PG	0
-SG-SF	0
-SG-PG	0
-SG	0
 SF	0
 PG-SG	0
-PF	0
-PF-SF	0
-SF-PF	0
-
-
-Group 11:
-
-Players: Quincy Acy, Steven Adams, Jeff Adrien, Alexis Ajinca, Furkan Aldemir, Cole Aldrich, LaMarcus Aldridge, Lavoy Allen, Tony Allen, Lou Amundson, Chris Andersen, Giannis Antetokounmpo, Joel Anthony, Omer Asik, Jeff Ayres, Andrea Bargnani, Earl Barron, Brandon Bass, Aron Baynes, Michael Beasley, Anthony Bennett, Bismack Biyombo, Tarik Black, DeJuan Blair, Andrew Bogut, Trevor Booker, Carlos Boozer, Elton Brand, Clint Capela, Tyson Chandler, Samuel Dalembert, Brandon Davies, Anthony Davis, Ed Davis, Glen Davis, Dewayne Dedmon, Gorgui Dieng, Joey Dorsey, Andre Drummond, Tim Duncan, Jeremy Evans, Reggie Evans, Festus Ezeli, Kenneth Faried, Derrick Favors, Joel Freeland, Kevin Garnett, Marc Gasol, Pau Gasol, Taj Gibson, Rudy Gobert, Drew Gooden, Aaron Gordon, Drew Gordon, Marcin Gortat, JaMychal Green, Blake Griffin, Justin Hamilton, Tyler Hansbrough, Udonis Haslem, Chuck Hayes, Brendan Haywood, John Henson, Roy Hibbert, J.J. Hickson, Nene Hilario, Jordan Hill, Ryan Hollins, Al Horford, Dwight Howard, Kris Humphries, Serge Ibaka, Bernard James, Al Jefferson, Cory Jefferson, Amir Johnson, James Johnson, Terrence Jones, DeAndre Jordan, Jerome Jordan, Chris Kaman, Enes Kanter, Michael Kidd-Gilchrist, Kosta Koufos, Ognjen Kuzmic, Carl Landry, Joffrey Lauvergne, David Lee, Alex Len, Jon Leuer, Brook Lopez, Robin Lopez, Ian Mahinmi, Kenyon Martin, Jason Maxiell, James Michael McAdoo, Mitch McGary, JaVale McGee, Nazr Mohammed, Greg Monroe, Donatas Motiejunas, Timofey Mozgov, Shabazz Muhammad, Mike Muscala, Joakim Noah, Nerlens Noel, Jusuf Nurkic, Johnny O'Bryant, Kyle O'Quinn, Arinze Onuaku, Zaza Pachulia, Jabari Parker, Adreian Payne, Nikola Pekovic, Kendrick Perkins, Mason Plumlee, Miles Plumlee, Dwight Powell, Shavlik Randolph, Zach Randolph, Thomas Robinson, Robert Sacre, Larry Sanders, Luis Scola, Kevin Seraphin, Henry Sims, Greg Smith, Jason Smith, Marreese Speights, Tiago Splitter, Jarnell Stokes, Amar'e Stoudemire, Jared Sullinger, Lance Thomas, Malcolm Thomas, Jason Thompson, Tristan Thompson, Ekpe Udoh, Jonas Valanciunas, Anderson Varejao, Noah Vonleh, Nikola Vucevic, T.J. Warren, David West, Hassan Whiteside, Shayne Whittington, Jeff Withey, Brandan Wright, Cody Zeller, Tyler Zeller
-
-Positions:
-SF-SG	0
-C	71
-PG	0
 SG-SF	0
 SG-PG	0
-SG	3
-SF	5
-PG-SG	0
-PF	70
-PF-SF	1
 SF-PF	0
+PG	1
+PF	0
+SF-SG	0
+SG	1
+PF-SF	0
+
+
+Group 22:
+
+Players: Quincy Acy, Furkan Aldemir, Lavoy Allen, Tony Allen, Al-Farouq Aminu, Chris Andersen, Kyle Anderson, Joel Anthony, Darrell Arthur, Earl Barron, Michael Beasley, Anthony Bennett, DeJuan Blair, Trevor Booker, Elton Brand, Nick Collison, Dante Cunningham, Samuel Dalembert, Brandon Davies, Glen Davis, Dewayne Dedmon, Joey Dorsey, Jeremy Evans, Landry Fields, Joel Freeland, Alonzo Gee, Drew Gooden, Aaron Gordon, Drew Gordon, JaMychal Green, Jorge Gutierrez, Justin Hamilton, Tyler Hansbrough, Udonis Haslem, Chuck Hayes, Ryan Hollins, Robbie Hummel, Serge Ibaka, Amir Johnson, James Johnson, Nick Johnson, Ognjen Kuzmic, Joffrey Lauvergne, Alex Len, Jon Leuer, Ian Mahinmi, Shawn Marion, Kenyon Martin, Jason Maxiell, Nazr Mohammed, Donatas Motiejunas, Mike Muscala, Andrew Nicholson, Johnny O'Bryant, Kyle O'Quinn, Adreian Payne, Kendrick Perkins, Miles Plumlee, Tayshaun Prince, Shavlik Randolph, Robert Sacre, Greg Smith, Lance Thomas, Malcolm Thomas, Jason Thompson, Ekpe Udoh, Noah Vonleh, Gerald Wallace, T.J. Warren, Travis Wear, Nate Wolters
+
+Positions:
+C	17
+SF	12
+PG-SG	0
+SG-SF	0
+SG-PG	0
+SF-PF	0
+PG	2
+PF	37
+SF-SG	0
+SG	2
+PF-SF	1
+
+
+Group 21:
+
+Players: Cameron Bairstow, Bruno Caboclo, Patrick Christopher, Victor Claver, Jack Cooley, Seth Curry, Xavier Henry, Grant Jerrett, Dahntay Jones, Andrei Kirilenko, Alex Kirk, Kalin Lucas, Jerel McNeal, Darius Miller, Toure' Murry, Lucas Nogueira, Miroslav Raduljica, Julius Randle, Glen Rice, Russ Smith, Greg Stiemsma
+
+Positions:
+C	4
+SF	6
+PG-SG	0
+SG-SF	0
+SG-PG	1
+SF-PF	0
+PG	4
+PF	4
+SF-SG	0
+SG	2
+PF-SF	0
+
+
+Group 15:
+
+Players: Luke Babbitt, Reggie Bullock, Allen Crabbe, Troy Daniels, Andre Dawkins, Dante Exum, Channing Frye, Francisco Garcia, Jordan Hamilton, Joe Harris, James Jones, Cartier Martin, Mike Miller, Steve Novak, Pablo Prigioni, Damjan Rudez, Brandon Rush, John Salmons, Jason Terry, Anthony Tolliver, Hedo Turkoglu, Henry Walker
+
+Positions:
+C	0
+SF	11
+PG-SG	0
+SG-SF	0
+SG-PG	0
+SF-PF	1
+PG	2
+PF	2
+SF-SG	0
+SG	6
+PF-SF	0
 
 

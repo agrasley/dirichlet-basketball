@@ -58,7 +58,7 @@ def output_to_files(groups,text_filename,csv_filename):
 		writer.writerow(['Group','Age','G','GS','MP','FG','FGA','FG%','3P','3PA','3P%','2P','2PA','2P%','FT','FTA','FT%','ORB','DRB','TRB','AST','STL','BLK','TOV','PF','PTS'])
 		for index,group in groups.items():
 			averages = group.get_player_averages()
-			writer.writerow([index,averages['Age'],averages['G'],averages['GS'],averages['MP'],averages['FG'],averages['FGA'],averages['FG%'],averages['3P'],averages['3PA'],averages['3P%'],averages['2P'],averages['2PA'],averages['2P%'],averages['FT'],averages['FT%'],averages['ORB'],averages['DRB'],averages['TRB'],averages['AST'],averages['STL'],averages['BLK'],averages['TOV'],averages['PF'],averages['PTS']])
+			writer.writerow([index,averages['Age'],averages['G'],averages['GS'],averages['MP'],averages['FG'],averages['FGA'],averages['FG%'],averages['3P'],averages['3PA'],averages['3P%'],averages['2P'],averages['2PA'],averages['2P%'],averages['FT'],averages['FTA'],averages['FT%'],averages['ORB'],averages['DRB'],averages['TRB'],averages['AST'],averages['STL'],averages['BLK'],averages['TOV'],averages['PF'],averages['PTS']])
 
 def create_player_groups(np_array):
 	groups = {}
